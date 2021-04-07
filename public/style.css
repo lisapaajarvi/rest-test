@@ -20,4 +20,11 @@ div {
 button {
     background-color: darkcyan;
     color: wheat;
+    width: 8rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+#visitor-div {
+    padding: 1rem;
 }
